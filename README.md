@@ -12,7 +12,7 @@ SSAFY 1학기에 진행된 관통 프로젝트로, 사용자가 쉽게 국내 �
 - HTML  / CSS / Java Script / Bootstrap
 ## 📝 Features
 ###### 기본 기능
-- 공공데이터포털의 한국 관광공사, 국문 관광정보를 활용하였습니다.
+- [공공데이터포털의 한국 관광공사, 국문 관광정보](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578)를 활용하였습니다.
 - 회원가입, 로그인, 로그아웃, 정보수정이 가능합니다.
 ![003](assets/img/imgs/003.jpg)
 ![004](assets/img/imgs/004.jpg)
